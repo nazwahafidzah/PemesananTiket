@@ -1,4 +1,4 @@
-# PemesananTiket
+## PemesananTiket
 
 Aplikasi pemesanan tiket sederhana yang dibangun menggunakan Jetpack Compose, dibuat sebagai tugas praktikum.
 
@@ -21,7 +21,7 @@ Aplikasi pemesanan tiket sederhana yang dibangun menggunakan Jetpack Compose, di
 * `screenshots/` — tangkapan layar hasil aplikasi yang berjalan
 
 ## Tampilan Aplikasi
-<img src="screenshots/hasil_halaman_pemesanan_tiket.png" alt="Hasil Halaman Pemesanan Tiket" width="300"/>
+<img width="1080" height="2424" alt="Hasil Halaman Pemesanan Tiket" src="https://github.com/user-attachments/assets/0ae579d1-de04-42d9-8b88-02821a0c2a9e" />
 
 ## Dibuat oleh
 
